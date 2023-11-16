@@ -1,0 +1,8 @@
+pluginManagement {
+    repositories {
+        maven {
+            url = 'https://nexus.cardinalhealth.net/repository/maven/'
+        }
+    }
+}
+rootProject.name = 'nphs_sample_producer_app'
